@@ -1,2 +1,2 @@
 # SimplePubSubPython
-This is a simple pub-sub build by me from python  
+This is a simple pub-sub based multithreaded client Server  developed by me.  
